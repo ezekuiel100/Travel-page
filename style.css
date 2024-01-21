@@ -60,7 +60,9 @@ header nav ul {
   background-position: center;
   height: 100vh;
   color: #fff;
-  padding: 250px 150px;
+  display: flex;
+  align-items: center;
+  padding: 0px 360px;
 }
 
 .home-text {
